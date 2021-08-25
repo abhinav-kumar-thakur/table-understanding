@@ -132,6 +132,13 @@ dmypy.json
 .idea
 
 # tmp
-data/*
-models/*
-output/*
+# clean during refactoring
+data
+data_1
+models
+output
+datasets
+dg_dataset
+downloaded_data
+files
+results
