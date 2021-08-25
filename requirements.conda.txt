@@ -29,7 +29,6 @@ dataclasses=0.8=pyh787bdff_2
 decorator=5.0.9=pyhd8ed1ab_0
 defusedxml=0.7.1=pyhd8ed1ab_0
 entrypoints=0.3=pyhd8ed1ab_1003
-et-xmlfile=1.1.0=pypi_0
 freetype=2.10.4=h4cff582_1
 future=0.18.2=py36h79c6626_3
 idna=3.1=pyhd3deb0d_0
@@ -88,7 +87,6 @@ notebook=6.3.0=py36h79c6626_0
 numpy=1.19.5=py36h08b5fde_2
 olefile=0.46=pyh9f0ad1d_1
 openjpeg=2.4.0=h6e7aa92_1
-openpyxl=3.0.7=pypi_0
 openssl=1.1.1k=h0d85af4_1
 packaging=21.0=pyhd8ed1ab_0
 pandas=1.1.5=py36h2be6da3_0
@@ -104,7 +102,6 @@ preshed=3.0.5=py36hefe7e0e_1
 probableparsing=0.0.1=py_1000
 prometheus_client=0.11.0=pyhd8ed1ab_0
 prompt-toolkit=3.0.19=pyha770c72_0
-pslpython=2.2.2=pypi_0
 ptyprocess=0.7.0=pyhd3deb0d_0
 pycparser=2.20=pyh9f0ad1d_2
 pydantic=1.8.2=py36hfa26744_0
